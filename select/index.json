@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "My lil mama bitch",
+  "base_artist": "MC TYSON",
+  "createdAt": "2025-12-05T03:38:30.458540Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My lil mama bitch (feat. Hideyoshi & Ralph)",
+      "artist": "MC TYSON",
+      "has_synced": true,
+      "path": "select/01_My_lil_mama_bitch_(feat._Hideyoshi_&_Ralph)_MC_TYSON.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "My lil mama bitch",
+      "artist": "MC Tyson, Hideyoshi, Ralph",
+      "has_synced": false,
+      "path": "select/pl_01_My_lil_mama_bitch_MC_Tyson,_Hideyoshi,_Ralph.txt"
+    }
+  ]
+}
